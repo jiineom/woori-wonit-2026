@@ -2,6 +2,6 @@
 
 # woori-wonit-2026
 
-새 줄 추가
-
 새로 한 줄 추가
+
+FROM REMOTE REPO
